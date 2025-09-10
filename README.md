@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0204-count-primes) |
+| [0867-new-21-game](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0867-new-21-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0070-climbing-stairs) |
+| [0867-new-21-game](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0867-new-21-game) |
 ## Memoization
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
