@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0204-count-primes) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/salmamaklad26-netizen/new-repository-leetcode-solution-in-cpp/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
